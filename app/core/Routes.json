@@ -1,0 +1,41 @@
+{
+
+    "cecos":{
+
+        "views":["head","body","cecos"]
+
+    },
+    "cuentas":{
+
+        "views":["head","body","cuentas"]
+
+    },
+    "ciclo":{
+
+        "views":["head","body","ciclo"]
+
+    },
+    "importar":{
+
+        "views":["head","body","importar"]
+
+    },
+    "editable":{
+
+        "views":["head","body","editable"]
+
+    },
+    "informe":{
+
+        "views":["head","body","informe"]
+
+    },
+    "login":{
+
+        "views":["login"]
+
+    }
+
+
+
+}

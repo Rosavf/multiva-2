@@ -1,0 +1,47 @@
+.table-breakdown{
+
+    color: whitesmoke;
+
+    cursor: pointer;
+    
+}
+
+.table-cell{
+
+    color: whitesmoke;
+
+    cursor: pointer;
+    
+}
+
+td{
+
+    color: whitesmoke;
+
+}
+
+.fa-check-square{
+
+    color: rgb(39, 200, 39);
+
+    cursor: pointer;
+
+
+}
+
+.fa-times-rectangle{
+
+    color:red;
+
+    cursor: pointer;
+
+}
+
+.fa-trash{
+
+    color:red;
+
+    cursor: pointer;
+
+
+}
