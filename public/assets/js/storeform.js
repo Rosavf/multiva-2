@@ -1,11 +1,13 @@
 class StoreForm{
 
+    //
     readData(data){
 
         this.data=data;
 
     }
 
+    //
     writeForm(divId){
 
         const month = parseInt(this.data.month);
@@ -70,7 +72,7 @@ class StoreForm{
             
             selectMonth += '<option value="';
             selectMonth += i.toString();
-            selectMonth += '" >';
+            selectMonth += '">';
             selectMonth += monthString;
             selectMonth += '</option>';
 
