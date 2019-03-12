@@ -3,7 +3,7 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="card-box table-responsive">
-                                
+
                                     <div class="dropdown pull-right"></div>
 
                                     <div class="row">
@@ -32,7 +32,7 @@
                     <!-- container -->
                 </div> 
                 <!-- content -->
-                <footer class="footer">2018 © Multiva.</footer>
+                <footer class="footer">2019 © Multiva.</footer>
 
             </div>
             <!-- End content-page -->
