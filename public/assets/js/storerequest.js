@@ -8,6 +8,8 @@ $(document).ready(function(){
         method:'POST',
         data:'',
         success:function (response) {
+
+            console.log(response);
             
             const cicleData = JSON.parse(response);
             storeForm.readData(cicleData);
