@@ -77,6 +77,8 @@
 	                                                <div class="col-md-10">
 	                                                    <select type="text" class="form-control" id="selectYear">
 
+                                                            <option value="2019">2019</option>
+
                                                         </select>
 	                                                </div>
 	                                            </div>
@@ -90,6 +92,8 @@
 	                                                <label class="col-md-2 control-label">Mes:</label>
 	                                                <div class="col-md-10">
 	                                                    <select type="text" class="form-control" id="selectMonth">
+
+                                                            <option value="2019">2019</option>
 
                                                         </select>
 	                                                </div>
