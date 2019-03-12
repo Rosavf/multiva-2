@@ -21,7 +21,7 @@
                                     <br>
                                     <br>
                                     <!-- row -->
-                        			<div class="row">
+                        			<div class="row" hidden>
 
                                         <!-- end col -->
                                         <div class="col-lg-3">
