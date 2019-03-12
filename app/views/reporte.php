@@ -58,7 +58,7 @@
 
                                         <div class="col-lg-4">
                         					<form class="form-horizontal" role="form">
-	                                            <input type="button" value="INFORME" class="form-control btn btn-success">
+	                                            <input type="button" value="INFORME" class="form-control btn btn-success" id="btnReport">
 	                                        </form>
                                         </div>
                                         <!-- end col -->
