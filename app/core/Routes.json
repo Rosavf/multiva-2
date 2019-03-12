@@ -30,6 +30,11 @@
         "views":["head","body","informe"]
 
     },
+    "reporte":{
+
+        "views":["head","body","reporte"]
+
+    },
     "login":{
 
         "views":["login"]
