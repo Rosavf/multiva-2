@@ -75,8 +75,7 @@
 	                                            <div class="form-group">
 	                                                <label class="col-md-2 control-label">Anualidad</label>
 	                                                <div class="col-md-10">
-	                                                    <select type="text" class="form-control">
-
+	                                                    <select type="text" class="form-control" id="selectYear">
 
                                                         </select>
 	                                                </div>
@@ -90,9 +89,7 @@
 	                                            <div class="form-group">
 	                                                <label class="col-md-2 control-label">Mes</label>
 	                                                <div class="col-md-10">
-	                                                    <select type="text" class="form-control">
-
-
+	                                                    <select type="text" class="form-control" id="selectMonth">
 
                                                         </select>
 	                                                </div>
