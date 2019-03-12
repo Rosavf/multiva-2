@@ -113,7 +113,7 @@ class CecosTable{
                 success:function(response){
 
                     while(!response){}
-                    window.location.replace('http://35.243.156.112/balanza/cecos.php');
+                    window.location.replace('http://35.243.156.112/multiva/cecos');
                     
                 }
             

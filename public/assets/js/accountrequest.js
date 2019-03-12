@@ -51,7 +51,7 @@ $(document).ready(function(){
 
                                     while(!response){}
         
-                                    window.location.replace("http://35.243.156.112/balanza/cuentas.php");
+                                    window.location.replace("http://35.243.156.112/multiva/cuentas");
 
                                 }
         
@@ -72,7 +72,7 @@ $(document).ready(function(){
 
                     $("#btnCancel").click(function(){
 
-                        window.location.replace("http://35.243.156.112/balanza/cuentas.php");
+                        window.location.replace("http://35.243.156.112/balanza/cuentas");
 
                     });
 
