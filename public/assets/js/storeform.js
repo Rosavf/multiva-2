@@ -10,7 +10,7 @@ class StoreForm{
     //
     writeForm(divId){
 
-        const month = parseInt(this.data.month);
+        const month = parseInt(this.data.Mes);
         let selectMonth='';
 
         for(let i=1; i<=month; i++){
