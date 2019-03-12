@@ -155,7 +155,7 @@
         <!-- Developed -->
         <script src="assets/js/conversion.js"></script>
         <script src="assets/js/storeform.js"></script>
-        <script src="assets/js/storeform.js"></script>
+        <script src="assets/js/storerequest.js"></script>
 
         <!--  -->
         <script>

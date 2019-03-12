@@ -11,6 +11,7 @@ $(document).ready(function(){
             
             const cicleData = JSON.parse(response);
             storeForm.readData(cicleData);
+            storeForm.writeForm("#selectMonth");
 
         }
 
