@@ -79,6 +79,8 @@
                             <li><a href="http://35.243.156.112/multiva/editable">Editables</a></li>
                             <li><a href="http://35.243.156.112/multiva/importar">Importar</a></li>
                             <li><a href="http://35.243.156.112/multiva/informe">Informe Actual</a></li>
+                            <li><a href="http://35.243.156.112/multiva/reporte">Informe</a></li>
+
                         </ul>
                     </li>
                 </ul>

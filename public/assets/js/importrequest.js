@@ -13,7 +13,6 @@ $(document).ready(function(){
 
                 alert("datos vacios");
 
-                
             }
 
             else{
@@ -37,9 +36,8 @@ $(document).ready(function(){
                     data:'',
                     success:function(response){
 
-                        while (!response){
-                            
-                        }
+                        while (!response){  }
+
                         window.location.replace("http://35.243.156.112/multiva/importar");
 
                     }
