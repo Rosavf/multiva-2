@@ -6,7 +6,7 @@
                                     <h4 class="header-title m-t-0 m-b-30">SELECCIONE PARAMETROS</h4>
 
 
-                                    <div class="row">
+                                    <div class="row" hidden>
                                     
                                         <div class="col-lg-3">
                         					<form class="form-horizontal" role="form">
