@@ -82,4 +82,17 @@ class StoreForm{
 
     }
 
+    readForm(){
+
+        const params={
+
+            year = $("#selectYear").val(),
+            month = $("#celectMonth").val()
+
+        };
+
+        return params;
+
+    }
+
 }

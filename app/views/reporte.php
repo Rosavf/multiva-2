@@ -72,6 +72,21 @@
                         </div>
                         <!-- end row -->
 
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="card-box table-responsive">
+                                    <div class="dropdown pull-right"></div>
+
+                                        <table id="datatable" class="table table-stripped">
+                                        
+                                        
+
+                                        </table>
+
+                                </div>
+                            </div>
+                            <!-- end col -->
+
 
                     </div> 
                     <!-- container -->

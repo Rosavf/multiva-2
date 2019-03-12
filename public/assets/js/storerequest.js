@@ -10,10 +10,28 @@ $(document).ready(function(){
         success:function (response) {
 
             console.log(response);
-            
             const cicleData = JSON.parse(response);
             storeForm.readData(cicleData);
             storeForm.writeForm("#selectMonth");
+
+            $("#btnReport").click(function(){
+
+                $.ajax({
+
+                    url:'http://35.243.156.112/plataforma/balanza/reporte/mensual/'+storeForm.year+'-'.storeForm.month,
+                    method:'GET',
+                    data:'',
+                    success:function(response){
+
+                        const tableData = JSON.parse(response);
+
+                        
+
+                    }
+
+                });
+
+            });
 
         }
 
