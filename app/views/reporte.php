@@ -154,11 +154,10 @@
 
         <!-- Developed -->
         <script src="assets/js/conversion.js"></script>
-        <script src="assets/js/reporttable.js"></script>
-        <script src="assets/js/reportrequest.js"></script>
+        <script src="assets/js/storeform.js"></script>
+        <script src="assets/js/storeform.js"></script>
 
-
-
+        <!--  -->
         <script>
 
 

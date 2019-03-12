@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+    const storeForm = new StoreForm();
+
     $.ajax({
 
         url:'http://35.243.156.112/plataforma/balanza/ciclos/actual',
@@ -8,6 +10,7 @@ $(document).ready(function(){
         success:function (response) {
             
             const cicleData = JSON.parse(response);
+            storeForm.readData(cicleData);
 
         }
 
