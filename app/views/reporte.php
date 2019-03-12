@@ -20,51 +20,6 @@
                                     </div>
                                     <br>
                                     <br>
-                                    <!-- row -->
-                        			<div class="row" hidden>
-
-                                        <!-- end col -->
-                                        <div class="col-lg-3">
-                        					<form class="form-horizontal" role="form">
-	                                            <div class="form-group">
-	                                                <label class="col-md-2 control-label">Anualidad</label>
-	                                                <div class="col-md-10">
-
-	                                                    <select class="form-control" id="selectYear">
-
-                                                        </select>
-
-	                                                </div>
-	                                            </div>
-	                                        </form>
-                                        </div>
-                                        <!-- end col -->
-
-                                        <div class="col-lg-3">
-                        					<form class="form-horizontal" role="form">
-	                                            <div class="form-group">
-	                                                <label class="col-md-2 control-label">Mes</label>
-	                                                <div class="col-md-10">
-
-	                                                    <select class="form-control" id="selectMonth">
-
-                                                        </select>
-
-	                                                </div>
-	                                            </div>
-	                                        </form>
-                                        </div>
-                                        <!-- end col -->
-
-                                        <div class="col-lg-3">
-                        					<form class="form-horizontal" role="form">
-	                                            <button type="text" class="form-control btn btn-success">INFORME</button>
-	                                        </form>
-                                        </div>
-                                        <!-- end col -->
-
-                                    </div>
-                                    <!-- end row -->
 
                                     <!--row -->
                         			<div class="row">
@@ -93,7 +48,6 @@
 	                                                <div class="col-md-10">
 	                                                    <select type="text" class="form-control" id="selectMonth">
 
-                                                            <option value="2019">2019</option>
 
                                                         </select>
 	                                                </div>

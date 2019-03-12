@@ -9,7 +9,6 @@ class StoreForm{
     writeForm(divId){
 
         const month = parseInt(this.data.month);
-
         let selectMonth='';
 
         for(let i=1; i<=month; i++){
