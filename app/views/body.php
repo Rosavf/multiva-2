@@ -68,17 +68,17 @@
                     <li class="has_sub">
                         <a href="javascript:void(0);" class="waves-effect"><i class="fa fa-gear"></i> <span>CONFIGURACION</span> <span class="menu-arrow"></span></a>
                         <ul class="list-unstyled">
-                            <li><a href="http://localhost/multiva/cuentas">Cuentas</a></li>
-                            <li><a href="http://localhost/multiva/cecos">Cecos</a></li>
-                            <li><a href="http://localhost/multiva/ciclo">Ciclo</a></li>
+                            <li><a href="http://35.243.156.112/multiva/cuentas">Cuentas</a></li>
+                            <li><a href="http://35.243.156.112/multiva/cecos">Cecos</a></li>
+                            <li><a href="http://35.243.156.112/multiva/ciclo">Ciclo</a></li>
                         </ul>
                     </li>
                     <li class="has_sub">
                         <a href="javascript:void(0);" class="waves-effect"><i class="fa fa-file"></i> <span>INFORME</span><span class="menu-arrow"></span></a>
                         <ul class="list-unstyled">
-                            <li><a href="http://localhost/multiva/editable">Editables</a></li>
-                            <li><a href="http://localhost/multiva/importar">Importar</a></li>
-                            <li><a href="http://localhost/multiva/informe">Informe Actual</a></li>
+                            <li><a href="http://35.243.156.112/multiva/editable">Editables</a></li>
+                            <li><a href="http://35.243.156.112/multiva/importar">Importar</a></li>
+                            <li><a href="http://35.243.156.112/multiva/informe">Informe Actual</a></li>
                         </ul>
                     </li>
                 </ul>
