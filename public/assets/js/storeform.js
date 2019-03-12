@@ -76,7 +76,7 @@ class StoreForm{
 
         }
 
-        $(div).html(selectMonth);
+        $(divId).html(selectMonth);
 
     }
 
