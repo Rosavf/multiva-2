@@ -28,8 +28,8 @@
                                         <div class="col-lg-3">
                         					<form class="form-horizontal" role="form">
 	                                            <div class="form-group">
-	                                                <label class="col-md-2 control-label">Anualidad:</label>
-	                                                <div class="col-md-10">
+	                                                <label class="col-md-3 control-label">Anualidad:</label>
+	                                                <div class="col-md-9">
 	                                                    <select type="text" class="form-control" id="selectYear">
 
                                                             <option value="2019">2019</option>
@@ -48,7 +48,7 @@
 	                                                <div class="col-md-10">
 	                                                    <select type="text" class="form-control" id="selectMonth">
 
-                                        <!-- AJAX -->
+                                                        <!-- AJAX -->
 
                                                         </select>
 	                                                </div>
@@ -62,7 +62,7 @@
 	                                            <div class="form-group">
 	                                                <label class="col-md-2 control-label">Tipo:</label>
 	                                                <div class="col-md-10">
-	                                                    <select type="text" class="form-control" id="selectMonth">
+	                                                    <select type="text" class="form-control" id="selectType">
                                                             <option value="mensual">MENSUAL</option>
                                                             <option value="acumulado">ACUMULADO</option>
                                                         </select>
