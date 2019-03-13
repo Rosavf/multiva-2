@@ -31,7 +31,7 @@ $(document).ready(function(){
                         const tableData = JSON.parse(response);
 
                         modularTable.readData(tableData);
-                        modularTable.deleteTable("#datatable");
+                        $("#datatable").html('');
                         modularTable.writeTable("#datatable");
 
                     }
