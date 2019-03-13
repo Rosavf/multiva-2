@@ -167,7 +167,6 @@ class ModularTable{
 
         }
 
-
         this.data.datasets[0].tables[0].matrix.forEach(row=>{
 
             body+='<tr>';         
@@ -421,6 +420,8 @@ class ModularTable{
         //
         table+=head;
         table+=body;
+
+        this.data=null;
 
         $(divId).html(table);
 
