@@ -12,8 +12,6 @@ function globalCicle(staticTitle) {
             let monthString;
 
             for(let i=1; i<=parseInt(globalCicle.Mes); i++){
-
-                let monthString;
     
                 switch (i) {
                     case 1:
