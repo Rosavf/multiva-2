@@ -23,7 +23,7 @@ $(document).ready(function(){
 
                 $.ajax({
 
-                    url:'http://35.243.156.112/plataforma/balanza/reporte/mensual/'+params.year+'-'.params.month,
+                    url:'http://35.243.156.112/plataforma/balanza/reporte/mensual/'+params.year+'-'+params.month,
                     method:'GET',
                     data:'',
                     success:function(response){
