@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    globalCicle("INTEGRACION DE GASTOS POR UNIDAD DE NEGOCIO ");
+    globalCicle("INTEGRACION DE GASTOS POR UNIDAD DE NEGOCIO HASTA ");
 
     const storeForm = new StoreForm();
 
