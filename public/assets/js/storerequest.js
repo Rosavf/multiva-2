@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    globalCicle("INFORME MENSUAL MULTIVA ");
+    globalCicle("INFORMES MENSUALES ");
 
     const storeForm = new StoreForm();
 

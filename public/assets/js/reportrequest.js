@@ -1,5 +1,8 @@
 $(document).ready(function(){
 
+    globalCicle("INFORME EN CURSO ");
+
+
     $.ajax({
 
         url:'http://35.243.156.112/plataforma/balanza/resumen/indice',

@@ -1,6 +1,8 @@
 
 $(document).ready(function(){
 
+    globalCicle("CONFIGURACION CUENTAS MAYORES ");
+
     $.ajax({
 
         url:'http://35.243.156.112/plataforma/balanza/cuentas/indice',

@@ -1,5 +1,8 @@
 $(document).ready(function(){
 
+    globalCicle("DATOS IMPORTADOS DE BIG QUERY ");
+
+
     $.ajax({
 
         url:"http://35.243.156.112/plataforma/balanza/informe/indice",

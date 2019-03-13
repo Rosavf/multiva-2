@@ -1,5 +1,8 @@
 $(document).ready(function(){
 
+    globalCicle("CENTROS DE COSTO ");
+
+
     const cecosTable = new CecosTable();
     const cecosForm = new CecosForm();
     let switched=false;
