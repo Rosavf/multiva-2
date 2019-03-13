@@ -48,6 +48,7 @@
 	                                                <div class="col-md-10">
 	                                                    <select type="text" class="form-control" id="selectMonth">
 
+                                        <!-- AJAX -->
 
                                                         </select>
 	                                                </div>
@@ -94,7 +95,7 @@
 
                                         <table id="datatable" class="table table-stripped">
                                         
-                                        
+                                        <!-- AJAX -->
 
                                         </table>
 
