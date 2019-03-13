@@ -18,7 +18,7 @@
                 <!-- Page title -->
                 <ul class="nav navbar-nav navbar-left">
                     <li><button class="button-menu-mobile open-left"><i class="zmdi zmdi-menu"></i></button></li>
-                    <li><h4 class="page-title">CENTROS DE COSTO</h4></li>
+                    <li><h4 class="page-title"></h4></li>
                 </ul>
 
                 <!-- Right(Notification and Searchbox -->
@@ -27,7 +27,7 @@
                         <!-- Notification -->
                         <div class="notification-box">
                             <ul class="list-inline m-b-0">
-                                <li><a href="logoutaux.php" class="right-bar-toggle"><i class="fa fa-sign-out"></i></a></li>
+                                <li><a href="#" class="right-bar-toggle"><i class="fa fa-sign-out"></i></a></li>
                             </ul>
                         </div>
                         <!-- End Notification bar -->
