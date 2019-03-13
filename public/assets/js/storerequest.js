@@ -19,6 +19,8 @@ $(document).ready(function(){
 
                 const params = storeForm.readForm();
 
+                console.log(params);
+
                 $.ajax({
 
                     url:'http://35.243.156.112/plataforma/balanza/reporte/mensual/'+params.year+'-'.params.month,
