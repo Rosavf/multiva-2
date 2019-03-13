@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     const storeForm = new StoreForm();
-    const modularTable = new modularTable();
+    const modularTable = new ModularTable();
 
     $.ajax({
 
