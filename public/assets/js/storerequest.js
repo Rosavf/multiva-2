@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+    globalCicle("INFORME MENSUAL MULTIVA ");
+
     const storeForm = new StoreForm();
 
     $.ajax({
