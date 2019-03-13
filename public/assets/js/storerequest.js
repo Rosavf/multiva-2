@@ -11,7 +11,6 @@ $(document).ready(function(){
         data:'',
         success:function (response) {
 
-            console.log(response);
             const cicleData = JSON.parse(response);
             storeForm.readData(cicleData);
             storeForm.writeForm("#selectMonth");
@@ -19,8 +18,6 @@ $(document).ready(function(){
             $("#btnReport").click(function(){
 
                 const params = storeForm.readForm();
-
-                console.log(params);
 
                 $.ajax({
 
@@ -30,7 +27,6 @@ $(document).ready(function(){
                     success:function(response){
 
                         const tableData = JSON.parse(response);
-
                         const modularTable = new ModularTable();
                         modularTable.readData(tableData);
                         $("#datatable").html('');
