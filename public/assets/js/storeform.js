@@ -87,7 +87,8 @@ class StoreForm{
         const params={
 
             year : $("#selectYear").val(),
-            month : $("#selectMonth").val()
+            month : $("#selectMonth").val(),
+            type : $("#selectType").val()
 
         };
         
