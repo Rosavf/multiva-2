@@ -70,7 +70,9 @@
                         <ul class="list-unstyled">
                             <li><a href="http://35.243.156.112/multiva/cuentas">Cuentas</a></li>
                             <li><a href="http://35.243.156.112/multiva/cecos">Cecos</a></li>
-                            <!--<li><a href="http://35.243.156.112/multiva/ciclo">Ciclo</a></li>-->
+                            <!--
+                            <li><a href="http://35.243.156.112/multiva/ciclo">Ciclo</a></li>
+                            -->
                         </ul>
                     </li>
                     <li class="has_sub">
