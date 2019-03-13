@@ -11,7 +11,7 @@ function globalCicle(staticTitle) {
             let yearString = globalCicle.Anualidad;
             let monthString;
 
-            for(let i=1; i<=globalCicle.Mes; i++){
+            for(let i=1; i<=parseInt(globalCicle.Mes); i++){
 
                 let monthString;
     
