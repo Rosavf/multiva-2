@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    globalCicle("INFORME EN CURSO ");
+    globalCicle("INTEGRACION DE GASTOS POR UNIDAD DE NEGOCIO");
 
 
     $.ajax({
