@@ -1,6 +1,7 @@
 $(document).ready(function(){
 
     const storeForm = new StoreForm();
+    const modularTable = new modularTable();
 
     $.ajax({
 
@@ -25,7 +26,8 @@ $(document).ready(function(){
 
                         const tableData = JSON.parse(response);
 
-                        
+                        modularTable.readData(tableData);
+                        modularTable.writeTable("#datatable");
 
                     }
 

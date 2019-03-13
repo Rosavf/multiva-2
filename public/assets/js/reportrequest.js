@@ -23,6 +23,7 @@ $(document).ready(function(){
                 report.readData(data);
                 report.writeTable("#datatable");
 
+
             }
 
 
