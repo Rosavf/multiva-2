@@ -139,6 +139,7 @@
         <script src="assets/js/jquery.app.js"></script>
 
         <!-- Developed -->
+        <script src="assets/js/cicleglobalrequest.js"></script>
         <script src="assets/js/conversion.js"></script>
         <script src="assets/js/accounttable.js"></script>
         <script src="assets/js/userform.js"></script>
