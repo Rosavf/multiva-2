@@ -33,6 +33,7 @@ $(document).ready(function(){
                         modularTable.readData(tableData);
                         $("#datatable").html('');
                         modularTable.writeTable("#datatable");
+                        mudularTable=null;
 
                     }
 
