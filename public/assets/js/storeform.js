@@ -90,6 +90,7 @@ class StoreForm{
             month : $("#selectMonth").val()
 
         };
+        
         return params;
 
     }
