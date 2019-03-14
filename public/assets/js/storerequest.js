@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     globalCicle("INTEGRACION DE GASTOS POR UNIDAD DE NEGOCIO HASTA ");
-
+    const storeForm = new StoreForm();
 
     $.ajax({
 
@@ -10,7 +10,6 @@ $(document).ready(function(){
         data:'',
         success:function (response) {
 
-            const storeForm = new StoreForm();
             const cicleData = JSON.parse(response);
             storeForm.readData(cicleData);
             storeForm.writeForm("#selectMonth");
@@ -18,7 +17,6 @@ $(document).ready(function(){
             $("#btnReport").click(function(){
 
                 const params = storeForm.readForm();
-                storeForm=null;
 
                 $.ajax({
 
