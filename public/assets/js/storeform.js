@@ -19,42 +19,42 @@ class StoreForm{
 
             switch (i) {
                 case 1:
-                monthString="Enero";
+                monthString="ENERO";
                     break;
                 case 2:
-                monthString="Febrero";
+                monthString="FEBRERO";
                     break;
 
                 case 3:
-                monthString="Marzo";
+                monthString="MARZO";
                     break;
 
                 case 4:
-                monthString="Abril";
+                monthString="ABRIL";
                     break;
 
                 case 5:
-                monthString="Mayo";
+                monthString="MAYO";
                     break;
 
                 case 6:
-                monthString="Junio";
+                monthString="JUNIO";
                     break;
 
                 case 7:
-                monthString="Julio";
+                monthString="JULIO";
                     break;
 
                 case 8:
-                monthString="Agosto";
+                monthString="AGOSTO";
                     break;
 
                 case 9:
-                monthString="Septiembre";
+                monthString="SEPTIEMBRE";
                     break;
 
                 case 10:
-                monthString="Octubre";
+                monthString="OCTUBRE";
                     break;
 
                 case 11:
