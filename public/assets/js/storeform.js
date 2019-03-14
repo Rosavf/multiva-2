@@ -58,15 +58,15 @@ class StoreForm{
                     break;
 
                 case 11:
-                monthString="Noviembre";
+                monthString="NOVIEMBRE";
                     break;
 
                 case 12:
-                monthString="Diciembre";
+                monthString="DICIEMBRE";
                     break;
             
                 default:
-                monthString="Enero";
+                monthString="ENERO";
                     break;
             }
             
