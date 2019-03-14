@@ -23,11 +23,11 @@
             <div class="row">
 
               <div class = "col-md-4">
-                <input type="text" name="nickname" class="form-control textbox-nickname">
+                <input type="text" name="nickname" placeholder="usuario" class="form-control textbox-nickname">
               </div>
 
               <div class = "col-md-4">
-                <input type="password" name="password" class="form-control textbox-password">
+                <input type="password" name="password" placeholder="password" class="form-control textbox-password">
               </div>
 
               <div class = "col-md-4">
