@@ -22,15 +22,15 @@
           <form action="http://35.243.156.112/balanza/public/loginaux.php" method="post" enctype="multipart/form-data">
             <div class="row">
 
-              <div class = "col">
+              <div class = "col-md-4">
                 <input type="text" name="nickname" class="form-control textbox-nickname">
               </div>
 
-              <div class = "col">
+              <div class = "col-md-4">
                 <input type="password" name="password" class="form-control textbox-password">
               </div>
 
-              <div class = "col">
+              <div class = "col-md-4">
                 <input  type="submit" value="INICIAR SESION" class = "btn btn-block btn-success btn-login">
               </div>
               
