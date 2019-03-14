@@ -35,9 +35,7 @@
                 </div> 
                 <!-- content -->
 
-                <footer class="footer">
-                    2018 © Multiva.
-                </footer>
+                <footer class="footer">2018 © Multiva.</footer>
 
             </div>
             <!-- End content-page -->
