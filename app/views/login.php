@@ -15,7 +15,7 @@
 
   <div class="row">
     <div class="col-md-6">
-      <div class="card" id="login-form">
+      <div class="card login-form">
 
       <div class="card-header title-login">INICIO DE SESION</div>
 
