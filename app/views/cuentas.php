@@ -16,8 +16,8 @@
                         					<form class="form-horizontal" role="form">
 
                                                 <div class="form-group">
-	                                                <label class="col-sm-2 control-label">Usuario</label>
-	                                                <div class="col-sm-10">
+	                                                <label class="col-sm-3 control-label">Usuario</label>
+	                                                <div class="col-sm-9">
 	                                                    <input type="text" class="form-control" id="textUser">
 	                                                </div>
                                                 </div>
@@ -29,8 +29,8 @@
                         					<form class="form-horizontal" role="form">
 
                                                 <div class="form-group">
-	                                                <label class="col-sm-2 control-label">Password</label>
-	                                                <div class="col-sm-10">
+	                                                <label class="col-sm-3 control-label">Password</label>
+	                                                <div class="col-sm-9">
                                                         <input type="password" class="form-control" id="textPassword">
 	                                                </div>
                                                 </div>
@@ -41,7 +41,7 @@
                         				<div class="col-lg-3">
                         					<form class="form-horizontal" role="form">
                                                 <div class="form-group">
-	                                                <div class="col-sm-10">
+	                                                <div class="col-sm-9">
                                                         <input class="btn btn-block btn-danger" type="button" value="CONFIRMAR" id="btnConfirm">
 	                                                </div>
                                                 </div>
@@ -51,9 +51,7 @@
                                         <div class="col-lg-3">
                         					<form class="form-horizontal" role="form">
                                                 <div class="form-group">
-	                                                <div class="col-sm-10">
-                                                        <input class="btn btn-block btn-primary" type="button" value="CANCELAR" id="btnCancel">
-	                                                </div>
+                                                    <input class="btn btn-block btn-primary" type="button" value="CANCELAR" id="btnCancel">
                                                 </div>
 	                                        </form>
                                         </div>
