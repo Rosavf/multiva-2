@@ -7,11 +7,9 @@
                                     
                                     <div class="col-lg-4">
                                         <form class="form-horizontal" role="form">
-
                                             <div class="form-group">
                                                 <input class="btn btn-block btn-success" type="button" value="ACTUALIZAR DATOS" id="btnUpdate">
                                             </div>
-
                                         </form>
                                     </div>
                                     <!-- end col -->
