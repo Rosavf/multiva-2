@@ -18,6 +18,7 @@ $(document).ready(function(){
             $("#btnReport").click(function(){
 
                 const params = storeForm.readForm();
+                storeForm=null;
 
                 $.ajax({
 
