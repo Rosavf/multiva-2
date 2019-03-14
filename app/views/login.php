@@ -17,7 +17,7 @@
     <div class="col-md-6">
       <div class="card" id="login-form">
 
-      <div class="card-header">INICIO DE SESION</div>
+      <div class="card-header title-login">INICIO DE SESION</div>
 
         <!--inicia tarjeta-->
         <div class="card-body">
@@ -25,15 +25,15 @@
             <div class="row">
 
               <div class = "col">
-                <input type="text" name="nickname" class="form-control">
+                <input type="text" name="nickname" class="form-control textbox-nickname">
               </div>
 
               <div class = "col">
-                <input type="password" name="password" class="form-control">
+                <input type="password" name="password" class="form-control textbox-password">
               </div>
 
               <div class = "col">
-                <input  type="submit" value="INICIAR SESION" class = "btn btn-block btn-success">
+                <input  type="submit" value="INICIAR SESION" class = "btn btn-block btn-success btn-login">
               </div>
               
             </div>
